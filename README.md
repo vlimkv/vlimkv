@@ -23,6 +23,16 @@ Launched [savoa.kz](https://savoa.kz) in 2 months — a production-ready platfor
 
 ---
 
+### Academic Foundations
+Programming: C++ · Java (OOP) · Python  
+Core CS: Algorithms & Data Structures · Discrete Mathematics · Linear Algebra · Probability & Statistics · Operating Systems (Linux) · Computer Organisation & Architecture  
+Software Engineering: Web Technologies · DBMS · Project Management · Research Methods  
+Cybersecurity: Ethical Hacking · Network Security · Security Architecture · Cryptography · Advanced Cryptography · Malware Analysis · Web Security  
+Machine Learning: ML Algorithms (PyTorch)  
+Other: Blockchain · Technological Entrepreneurship · Academic Writing · Professional English (C1)
+
+---
+
 ### Featured Projects
 - [**SAVOA Platform**](https://savoa.kz) — wellness events, QR tickets, payments, dashboards  
 - **Ticket Studio** — Electron app for bulk PDF tickets via WhatsApp  
