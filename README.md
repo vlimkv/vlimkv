@@ -1,39 +1,31 @@
 <h1 align="center">Alimkhan Slambek</h1>
 <p align="center">
-  <strong>Full-Stack Engineer</strong> · Cybersecurity (BSc) · Computer Science (MSc)
+  Full-Stack Engineer · BSc Cybersecurity · MSc Computer Science
 </p>
 
----
-
 ### About
-I build modern web applications with React, Next.js, Node.js, Supabase, Tailwind CSS.  
-Launched [savoa.kz](https://savoa.kz) in 2 months — a production-ready platform with real-time QR check-ins, payments & dashboards.  
-
----
+Full-Stack Engineer with focus on modern web applications (React, Next.js, Node.js, Supabase, Tailwind CSS).  
+Co-founder of [savoa.kz](https://savoa.kz), launched in 2 months with real-time QR check-ins, payments, and admin dashboards.  
+Strong academic background in Computer Science & Cybersecurity with applied research in AI and ML.
 
 ### Tech Stack
-| Frontend        | Backend / Data           |
-|-----------------|--------------------------|
-| React           | Node.js                  |
-| Next.js         | FastAPI                  |
-| Tailwind CSS    | Python                   |
-|                 | PostgreSQL · MongoDB     |
-|                 | Docker · Power BI        |
-|                 | Machine Learning · PyTorch |
-
----
-
-### Academic Foundations
-Programming: C++ · Java (OOP) · Python  
-Core CS: Algorithms & Data Structures · Discrete Mathematics · Linear Algebra · Probability & Statistics · Operating Systems (Linux) · Computer Organisation & Architecture  
-Software Engineering: Web Technologies · DBMS · Project Management · Research Methods  
-Cybersecurity: Ethical Hacking · Network Security · Security Architecture · Cryptography · Advanced Cryptography · Malware Analysis · Web Security  
-Machine Learning: ML Algorithms (PyTorch)  
-Other: Blockchain · Technological Entrepreneurship · Academic Writing · Professional English (C1)
-
----
+React · Next.js · Node.js · Supabase · Tailwind CSS  
+Python · FastAPI · PostgreSQL · MongoDB  
+Docker · Power BI · Machine Learning · PyTorch  
 
 ### Featured Projects
 - [**SAVOA Platform**](https://savoa.kz) — wellness events, QR tickets, payments, dashboards  
 - **Ticket Studio** — Electron app for bulk PDF tickets via WhatsApp  
 - **Car Delivery Assistant** — Telegram bot + FastAPI for customs & delivery calculations  
+
+### Academic Foundations
+**Bachelor (Cybersecurity):**  
+C++ · Java (OOP) · Python · Algorithms & Data Structures · Operating Systems (Linux) · Database Management Systems  
+Discrete Mathematics · Linear Algebra · Probability & Statistics · Cryptography · Advanced Cryptography  
+Ethical Hacking · Network Security · Security Architecture & Design · Malware Analysis · Web Security  
+Machine Learning Algorithms · Blockchain Technologies  
+
+**Master (Computer Science):**  
+Advanced Databases · Advanced Frontend · Advanced Quality Assurance · Software Development Case Study  
+Applied Software Development Project · Neural Networks · Generative Algorithms · Big Data Methods and Tools  
+Product Management · IT Project Management · Methods & Tools for Data Analysis · Research Work & Thesis
