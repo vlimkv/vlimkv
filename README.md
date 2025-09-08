@@ -1,6 +1,6 @@
 <h1 align="center">Alimkhan Slambek</h1>
 <p align="center">
-  <strong>Full-Stack Engineer</strong> · BSc Cybersecurity · MSc Computer Science
+  <strong>Full-Stack Engineer</strong> · BSc Cybersecurity · MSc Computer Science & Engineering
 </p>
 
 ---
