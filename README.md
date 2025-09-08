@@ -10,7 +10,7 @@ Launched [savoa.kz](https://savoa.kz) in 2 months — platform with real-time QR
 ### Tech Stack
 React · Next.js · Node.js · Supabase · Tailwind CSS  
 Python · PostgreSQL · MongoDB · Power BI  
-FastAPI · Docker · Machine Learning · PyTorch  
+FastAPI · Docker · Machine Learning · PyTorch · TensorFlow
 
 ### Featured
 - [SAVOA Platform](https://savoa.kz) — wellness events, QR tickets, payments, dashboards  
