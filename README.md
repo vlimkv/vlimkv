@@ -1,6 +1,6 @@
 <h1 align="center">Alimkhan Slambek</h1>
 <p align="center">
-  Full-Stack Engineer • MSc Computer Science • Co-Founder of <a href="https://savoa.kz">SAVOA</a>
+  Full-Stack Engineer • BSc Cybersecurity | MSc Computer Science 
 </p>
 
 ---
@@ -26,6 +26,6 @@ Launched [savoa.kz](https://savoa.kz) in 2 months — events platform with real-
 
 ### 📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alimkhanslambek&show_icons=true&hide_title=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alimkhanslambek" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vlimkv&show_icons=true&hide_title=true&count_private=true&hide_border=true&cache_seconds=21600&bg_color=00000000" height="150" />
+  <img src="https://streak-stats.demolab.com?user=vlimkv&hide_border=true&background=FFFFFF00" height="150" />
 </p>
