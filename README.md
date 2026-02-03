@@ -14,4 +14,4 @@
 **Stack:**
 `TypeScript` `Python` `Next.js` `NestJS` `Docker` `PostgreSQL` `TensorFlow`
 
-[LinkedIn](https://linkedin.com/in/alimkhan-slambek) • [Email](mailto:alimkhanslambek@mail.ru)
+[LinkedIn](https://linkedin.com/in/alimkhan-slambek) • [Email](mailto:alimkhanslambek@gmail.com)
