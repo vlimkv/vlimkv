@@ -20,9 +20,9 @@
 I am a **Full-Stack Engineer** with a strong security background based in **Astana, Kazakhstan**. 
 I specialize in building complete web ecosystems—from database architecture to responsive UI.
 
-* 🔭 **Co-founder of Savoa.kz:** Launched a wellness platform in 2 months (QR check-ins, payments, admin dashboard).
+* 🔭 **Co-founder of Savoa.kz:** Architected a full wellness ecosystem (Monorepo: Web, Bot, AI).
 * 🛡️ **Security First:** My cybersecurity degree ensures I write secure, optimized, and scalable code.
-* 🧠 **Academic Focus:** Applied research in AI, Neural Networks, and Big Data.
+* 🧠 **Academic Focus:** Applied research in AI, Neural Networks, and Local LLM inference.
 
 ---
 
@@ -39,16 +39,16 @@ I specialize in building complete web ecosystems—from database architecture to
 
 **Backend & Data**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-**Tools & Platforms**
+**DevOps & AI**
 <br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Llama_CPP-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
 
@@ -58,9 +58,9 @@ I specialize in building complete web ecosystems—from database architecture to
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🎟️ [SAVOA Platform](https://savoa.kz)** | Full-cycle wellness event platform. Handles bookings, QR-ticket generation, and payments. | `Next.js` `Supabase` `Tailwind` |
-| **🎫 Ticket Studio** | Desktop application for bulk PDF ticket generation and automated WhatsApp distribution. | `Electron` `Node.js` |
-| **📦 Car Delivery Bot** | Automated customs & delivery calculator with Telegram interface and admin panel. | `Python` `FastAPI` `Telegram API` |
+| **🏗️ [Savoa Ecosystem](https://github.com/vlimkv/savoa-monorepo)** | Full-stack monorepo featuring a Next.js PWA, FastAPI Backend, AI Engine, and Telegram Bot integration. | `Next.js` `FastAPI` `Docker` |
+| **🧠 [AI Project Tracker](https://github.com/vlimkv/ai-project-tracker)** | Task management system with **Self-Hosted Local LLM** (llama.cpp). Generates roadmaps offline. | `Python` `Llama.cpp` `Docker` |
+| **🍽️ [Graff Piatto](https://github.com/vlimkv/graff-piatto)** | Premium E-commerce platform with dynamic catalog and admin dashboard. Real-world production app. | `Next.js` `TypeScript` `Tailwind` |
 
 ---
 
