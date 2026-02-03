@@ -1,64 +1,81 @@
-<h1 align="center">Alimkhan Slambek</h1>
-<p align="center">
-  <strong>Full-Stack Engineer</strong> · BSc Cybersecurity · MSc Computer Science & Engineering
-</p>
-
----
-
-### About
-Full-Stack Engineer with focus on modern web applications (React, Next.js, Node.js, Supabase, Tailwind CSS).  
-Co-founder of [savoa.kz](https://savoa.kz), launched in 2 months with real-time QR check-ins, payments, and admin dashboards.  
-Strong academic background in Computer Science & Cybersecurity with applied research in AI and ML.
-
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <!-- Core Web -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;MSc+Computer+Science;BSc+Cybersecurity;Building+Real+Products" alt="Typing SVG" />
   
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <h3>🚀 Turning complex logic into shipped production apps</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/alimkhan-slambek">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="mailto:alimkhanslambek@mail.ru">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br />
 
-  <!-- Data -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+### 👨‍💻 About Me
 
-  <!-- DevOps / ML -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
-</p>
+I am a **Full-Stack Engineer** with a strong security background based in **Astana, Kazakhstan**. 
+I specialize in building complete web ecosystems—from database architecture to responsive UI.
 
----
-
-### 📌 Featured Projects
-- [**SAVOA Platform**](https://savoa.kz) — wellness events, QR tickets, payments, dashboards  
-- **Ticket Studio** — Electron app for bulk PDF tickets via WhatsApp  
-- **Car Delivery Assistant** — Telegram bot + FastAPI for customs & delivery calculations  
+* 🔭 **Co-founder of Savoa.kz:** Launched a wellness platform in 2 months (QR check-ins, payments, admin dashboard).
+* 🛡️ **Security First:** My cybersecurity degree ensures I write secure, optimized, and scalable code.
+* 🧠 **Academic Focus:** Applied research in AI, Neural Networks, and Big Data.
 
 ---
 
-### 🎓 Academic Foundations
-**Bachelor (Cybersecurity):**  
-C++ · Java (OOP) · Python · Algorithms & Data Structures · Operating Systems (Linux) · Database Management Systems  
-Discrete Mathematics · Linear Algebra · Probability & Statistics · Cryptography · Advanced Cryptography  
-Ethical Hacking · Network Security · Security Architecture & Design · Malware Analysis · Web Security  
-Machine Learning Algorithms · Blockchain Technologies  
+### 🛠️ The Arsenal
 
-**Master (Computer Science):**  
-Advanced Databases · Advanced Frontend · Advanced Quality Assurance · Software Development Case Study  
-Applied Software Development Project · Neural Networks · Generative Algorithms · Big Data Methods and Tools  
-Product Management · IT Project Management · Methods & Tools for Data Analysis · Research Work & Thesis
+<div align="center">
+
+**Core & Frontend**
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+**Backend & Data**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **🎟️ [SAVOA Platform](https://savoa.kz)** | Full-cycle wellness event platform. Handles bookings, QR-ticket generation, and payments. | `Next.js` `Supabase` `Tailwind` |
+| **🎫 Ticket Studio** | Desktop application for bulk PDF ticket generation and automated WhatsApp distribution. | `Electron` `Node.js` |
+| **📦 Car Delivery Bot** | Automated customs & delivery calculator with Telegram interface and admin panel. | `Python` `FastAPI` `Telegram API` |
+
+---
+
+### 🎓 Education
+
+> *Blending strong theoretical foundations with practical engineering.*
+
+* **MSc Computer Science & Engineering** | *Astana IT University*
+    * **Focus:** Neural Networks, Generative Algorithms, Big Data Methods, Product Management.
+* **BSc Cybersecurity** | *Astana IT University*
+    * **Focus:** Ethical Hacking, Cryptography, Network Security, Secure Architecture.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vlimkv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlimkv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
